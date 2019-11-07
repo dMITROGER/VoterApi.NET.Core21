@@ -1,0 +1,42 @@
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.deps.json
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.runtimeconfig.json
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.runtimeconfig.dev.json
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.dll
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.pdb
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.csproj.CoreCompileInputs.cache
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorAssemblyInfo.cache
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorAssemblyInfo.cs
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.AssemblyInfoInputs.cache
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.AssemblyInfo.cs
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorTargetAssemblyInfo.cache
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.dll
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.pdb
+C:\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.csprojAssemblyReference.cache
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.deps.json
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.runtimeconfig.json
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.runtimeconfig.dev.json
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.dll
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.pdb
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.csprojAssemblyReference.cache
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.csproj.CoreCompileInputs.cache
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorAssemblyInfo.cache
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorAssemblyInfo.cs
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.AssemblyInfoInputs.cache
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.AssemblyInfo.cs
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorTargetAssemblyInfo.cache
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.dll
+C:\CENTENNIAL\3Semester\API Engineering & Cloud Comp - COMP 306 - 002\Labs\CloudLab2\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.pdb
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.deps.json
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.runtimeconfig.json
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.runtimeconfig.dev.json
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.dll
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\bin\Debug\netcoreapp2.1\PielievinGerasApiVoter.pdb
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.csprojAssemblyReference.cache
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.csproj.CoreCompileInputs.cache
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorAssemblyInfo.cache
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorAssemblyInfo.cs
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.AssemblyInfoInputs.cache
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.AssemblyInfo.cs
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.RazorTargetAssemblyInfo.cache
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.dll
+C:\New folder\VoteApiCore21\PielievinGerasApiVoter\PielievinGerasApiVoter\obj\Debug\netcoreapp2.1\PielievinGerasApiVoter.pdb

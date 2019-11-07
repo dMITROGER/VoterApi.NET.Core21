@@ -1,0 +1,18 @@
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/using-web-api-with-aspnet-web-forms
+
+https://www.codeproject.com/Questions/1181563/How-to-cal-web-API-in-ASP-NET-code-behind-page
+
+"name" : "AAA"
+
+"candidate_id": "1",
+       "user_id" : "1"
+
+https://docs.microsoft.com/en-us/aspnet/core/security/cors?view=aspnetcore-2.1
+https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa
+
+https://jsonlint.com/
+http://json2csharp.com/
+
+
+Re: how to pass int and string as a parameter to the web services
+data: "{id:"+id+" , subject: " '+$("#subject").val()+' ", comment:" '+$("#comment").val()+' "}",

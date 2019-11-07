@@ -1,0 +1,8 @@
+apigee link:
+http://dmitrogeras-eval-test.apigee.net/votesystem/api/votes
+
+api portal:
+https://dmitrogeras-eval-votesystemapi.apigee.io/
+
+elastic link:
+http://pielievingerasapivoter-dev.us-east-2.elasticbeanstalk.com/api/votes
